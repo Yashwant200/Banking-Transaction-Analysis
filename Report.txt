@@ -1,0 +1,102 @@
+Here's a complete, structured report of dashboard with clear insights.
+
+📊 Account Transaction Analysis Report
+🔹 1. Overall Summary (KPI Metrics)
+Total Deposit: 27.35K
+Total Withdrawal: 26.82K
+Net Flow: +521.53
+Closing Balance: 444.53
+✅ Insights:
+Deposits are only slightly higher than withdrawals → very tight cash flow
+Positive net flow (+521) indicates marginal savings
+Closing balance is low compared to total transactions → high spending behavior
+
+
+🔹 2. Year-wise Deposit vs Withdrawal
+Year	Deposit	Withdrawal
+2021	8.0K	6.8K
+2022	13.0K	14.0K
+2023	5.7K	3.8K
+2024	~1.0K	2.2K
+📈 Insights:
+2022 had the highest activity
+Deposit: 13K
+Withdrawal: 14K → overspending year
+2021 & 2023 were saving years
+Deposits > Withdrawals
+2024 shows decline
+Low deposits + relatively higher withdrawals → financial imbalance
+
+
+
+🔹 3. Monthly Balance Trend
+2021: ~1200 (peak)
+2022: ~150 (sharp drop 🔻)
+2023: ~300 (recovery)
+2024: ~444 (moderate growth)
+📊 Insights:
+Huge drop from 2021 → 2022 indicates:
+Either heavy expenses or reduced income
+Gradual recovery after 2022
+Still not back to original financial strength
+💳 Spending Pattern Analysis
+
+
+
+🔹 4. Monthly Withdrawal Distribution
+Month	Withdrawal
+September	10.7K 🔥
+November	6.5K
+August	3.1K
+February	1.7K
+March	1.2K
+December	1.1K
+Others	<1K
+📊 Insights:
+September dominates spending (10.7K) → possible large purchase/event
+Top 3 months (Sep, Nov, Aug) contribute ~75% of total withdrawals
+Most months have low spending → irregular expense pattern
+
+
+🔹 5. Where I spend more
+Receiver	Amount
+yashwante10008	19,808
+Gaurav Gas Age	952
+billdesk	599
+Gaurav pan pal	588
+VIJAY SCOOTER	570
+
+
+
+🔹 6. Month-over-Month Spending Change
+Month	Amount
+July	4.0K
+August	2.8K
+September	2.7K
+October	2.4K
+November	2.2K
+December	2.1K
+January	2.0K
+Feb–May	<1K
+📊 Insights:
+Spending peaks mid-year (July–September)
+Continuous decline afterward → controlled spending behavior
+Early year (Jan–May) shows low expenses
+💰 Deposit & Balance Analysis
+
+
+
+🔹 7. Months with Highest Deposits
+Month	Deposit
+September	8.5K 🔥
+November	6.8K
+August	4.1K
+July	4.1K
+December	1.7K
+📊 Insights:
+Deposits follow similar pattern as withdrawals
+Peak months:
+September, November
+Suggests:
+Income inflow is seasonal or event-based
+
